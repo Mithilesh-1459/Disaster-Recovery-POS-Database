@@ -135,16 +135,4 @@ json/
 README.md                    # Documentation
 ```
 
----
-
-## Screenshots
-> Add your project screenshots below using Markdown syntax.
-```markdown
-![MongoDB Aggregates](./images/mongo-aggregates.png)
-![ETL Flow](./images/etl-process.png)
-```
-
----
-
-Let me know if you want to add badges, demo links, or license info!
 
