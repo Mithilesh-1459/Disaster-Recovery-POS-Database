@@ -28,6 +28,12 @@ This project showcases the implementation of a robust ETL (Extract, Transform, L
 
 ---
 
+## Entity Relationship Diagram
+
+![ERD](./assets/erd-diagram.png)
+
+---
+
 ## Database Schema Overview
 
 ### Product Table
